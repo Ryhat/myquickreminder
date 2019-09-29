@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyQuickTask</string>
+    <string name="quick_service_name0">QuickTask0</string>
+    <string name="quick_service_name1">QuickTask1</string>
+    <string name="quick_service_name2">QuickTask2</string>
+    <string name="quick_service_name3">QuickTask3</string>
+    <string name="quick_service_name4">QuickTask4</string>
+    <string name="chongfu">重复</string>
+
+</resources>
